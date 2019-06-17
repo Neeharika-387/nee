@@ -10,7 +10,7 @@ for(i=0;i<n;i++)
 {
   scanf("%d",a[i]);
 }
-  if(n>k){
+  if(n>=k){
 for(i=0;i<k;i++)
 {
   sum=sum+a[i];
