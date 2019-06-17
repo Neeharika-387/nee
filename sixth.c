@@ -6,12 +6,12 @@ void main()
  scanf("%d",&n);
  if((n%4)==0)
  {
-   printf("LEAP YEAR");
+   printf("YES");
  }
  else
  {
-    printf("NON LEAP YEAR");
+    printf("NO");
  }
- getch();;
+ getch();
  return 0;
  }
