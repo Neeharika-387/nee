@@ -8,9 +8,9 @@ void main()
  {
    while(n==q)
    {
-    if(n%2!=0)
+    if((n%2)!=0)
     {
-     printf("%d",n);
+     printf("%d\t",n);
      n++;
     }
  }
